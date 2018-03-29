@@ -8,12 +8,12 @@ This is the code for [this]() video on Youtube by Siraj Raval on Learning Blockc
 
 
 ## Week 1 (Cryptography):
-https://www.coursera.org/learn/crypto
+- https://www.coursera.org/learn/crypto
 
 ## Week 2 (Mastering Bitcoin + Annotated BTC Whitepaper + BTC wallet)
-https://github.com/bitcoinbook/bitcoinbook
-http://fermatslibrary.com/s/bitcoin
-https://bitcoin.org/en/choose-your-wallet
+- https://github.com/bitcoinbook/bitcoinbook
+- http://fermatslibrary.com/s/bitcoin
+- https://bitcoin.org/en/choose-your-wallet
 
 ## Week 3 (Bitcoin and Cryptocurrencies + build a blockchain)
 https://www.coursera.org/learn/cryptocurrency
