@@ -35,3 +35,6 @@ This is the code for [this]() video on Youtube by Siraj Raval on Learning Blockc
 
 ## Week 8 (Build a Decentralized Application):
 - https://github.com/moshest/p2p-index
+
+Have a look at this repositoty for some additional information on blockchain and cryptocurrencies
+https://github.com/srijithsrk/my_Blockchain
