@@ -4,7 +4,7 @@ This is the code for "Learn Blockchain in 2 Months" by Siraj Raval on Youtube
 
 ## Overview
 
-This is the code for [this]() video on Youtube by Siraj Raval on Learning Blockchain in 2 Months.
+This is the code for [this](https://www.youtube.com/watch?v=wVVGv2bmxow) video on Youtube by Siraj Raval on Learning Blockchain in 2 Months.
 
 
 ## Week 1 (Cryptography):
