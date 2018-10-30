@@ -8,7 +8,7 @@ This is the code for [this](https://www.youtube.com/watch?v=wVVGv2bmxow) video o
 
 
 ## Week 1 (Cryptography):
-- https://www.coursera.org/learn/crypto
+- Cryptography [this](https://www.coursera.org/learn/crypto).
 
 ## Week 2 (Mastering Bitcoin + Annotated BTC Whitepaper + BTC wallet)
 - https://github.com/bitcoinbook/bitcoinbook
