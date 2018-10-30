@@ -11,27 +11,27 @@ This is the code for [this](https://www.youtube.com/watch?v=wVVGv2bmxow) video o
 - Cryptography [this](https://www.coursera.org/learn/crypto).
 
 ## Week 2 (Mastering Bitcoin + Annotated BTC Whitepaper + BTC wallet)
-- https://github.com/bitcoinbook/bitcoinbook
-- http://fermatslibrary.com/s/bitcoin
-- https://bitcoin.org/en/choose-your-wallet
+- Mastering Bitcoin [this](https://github.com/bitcoinbook/bitcoinbook).
+- BTC Whitepaper [this](http://fermatslibrary.com/s/bitcoin).
+- BTC wallet [this](https://bitcoin.org/en/choose-your-wallet).
 
 ## Week 3 (Bitcoin and Cryptocurrencies + build a blockchain)
-- https://www.coursera.org/learn/cryptocurrency
-- https://hackernoon.com/learn-blockchains-by-building-one-117428612f46
+- Bitcoin and Cryptocurrency Technologies [this](https://www.coursera.org/learn/cryptocurrency).
+- Learn Blockchains by Building One [this](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46).
 
 ## Week 4 (Ethereum + Annotated Eth Whitepaper):
-- https://www.udemy.com/blockchain-application/
-- http://fermatslibrary.com/s/ethereum-a-next-generation-smart-contract-and-decentralized-application-platform#email-newsletter
+- Ethereum For Beginners: Build A Hello World Blockchain App [this](https://www.udemy.com/blockchain-application/)
+- Eth Whitepaper [this](http://fermatslibrary.com/s/ethereum-a-next-generation-smart-contract-and-decentralized-application-platform#email-newsletter).
 
 ## Week 5 (Solidity Programming + Ethereum articles):
-- https://cryptozombies.io/
-- https://blockgeeks.com/?s=ethereum
+- Solidity Programming [this](https://cryptozombies.io/)
+- Ethereum articles [this](https://blockgeeks.com/?s=ethereum).
 
 ## Week 6 (Other Cryptocurrencies):
-- https://www.youtube.com/watch?v=cjbHqvr4ffo&list=PL2-dafEMk2A7jW7CYUJsBu58JH27bqaNL
+- Cryptocurrencies [this](https://www.youtube.com/watch?v=cjbHqvr4ffo&list=PL2-dafEMk2A7jW7CYUJsBu58JH27bqaNL).
 
 ## Week 7 (Decentralized Applications):
-- http://shop.oreilly.com/product/0636920039334.do
+- Decentralized Applications [this](http://shop.oreilly.com/product/0636920039334.do).
 
 ## Week 8 (Build a Decentralized Application):
-- https://github.com/moshest/p2p-index
+- P2P Projects List [this](https://github.com/moshest/p2p-index).
